@@ -1,0 +1,18 @@
+<annotation>
+	<folder>input</folder>
+	<filename>Acadian_Flycatcher_0003_29094</filename>
+	<size>
+		<width>500</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Acadian Flycatcher</name>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>68</ymin>
+			<xmax>403</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>
